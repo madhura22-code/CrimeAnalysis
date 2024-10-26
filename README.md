@@ -1,7 +1,7 @@
 ﻿# Crime Data Analysis
 
 Explore the result presented through our visually appealing user interface. Click on the link below.
-https://pragatisukhija.github.io/CrimeDataAnalysis/
+(https://madhura22-code.github.io/CrimeAnalysis/)
 
 
 # Abstract
